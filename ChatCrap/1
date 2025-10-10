@@ -1,0 +1,13 @@
+[
+  {
+    "events": [
+      {
+        "title": "Birthday of Doctor Test",
+        "start": "2025-10-10",
+        "end": "2025-10-11",
+        "startLabel": "All-day",
+        "endLabel": "All-day"
+      }
+    ]
+  }
+]
